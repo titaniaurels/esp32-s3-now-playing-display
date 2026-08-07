@@ -22,7 +22,7 @@ Adafruit_SSD1306 display(
 // Duration for each text segment
 const unsigned long TEXT_DURATION = 800;
 
-// For animation speed
+// Animation speed
 const unsigned long FRAME_DURATION = 100;
 
 //Love me not-lyrics
